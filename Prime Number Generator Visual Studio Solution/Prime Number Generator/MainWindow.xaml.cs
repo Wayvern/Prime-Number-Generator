@@ -62,7 +62,6 @@ namespace Prime_Number_Generator
             TaskRadioButton.IsEnabled = active;
         }
 
-
         //Starts Task Based MultiThreading
         private void StartTasks(long max)
         {
@@ -113,6 +112,7 @@ namespace Prime_Number_Generator
             });
             PrimeNumberIndexTextbox.ScrollToEnd();
         }
+        
         private void UpdateFoundPrimeNumberList(Object Obj, EventArgs e)
         {
             this.Dispatcher.Invoke(() =>
@@ -164,14 +164,10 @@ namespace Prime_Number_Generator
         {
             TimeElapsed.Reset();
             TimeElapsed.Start();
-
             ProgressPercentage = 0.0f;
-
-            SetUIActive(false);
-            
-
+            SetUIActive(false);            
             maxPrimeNumberIndex = CurrentPrimeNumberIndex;
-
+            
             if (WorkerBasedMultithreading)
             {
                 GeneratePrimeNumbersWithWorkers((int)AmountToGenerateSlider.Value);
@@ -180,6 +176,7 @@ namespace Prime_Number_Generator
             {
                 StartTasks((long)AmountToGenerateSlider.Value);
             }
+            
             StartButton.Content = "Stop";
             ScreenPrintInterval.Start();
         }
@@ -202,10 +199,8 @@ namespace Prime_Number_Generator
             this.Dispatcher.Invoke(() =>
             {
                 SetUIActive(true);
-
                 TimeElapsedLabel.Content = "Time Elapsed: " + (int)TimeElapsed.Elapsed.Minutes + " Minutes " + (int)TimeElapsed.Elapsed.Seconds + " Seconds " + (int)TimeElapsed.Elapsed.Milliseconds + " Milliseconds";
                 StartButton.Content = "Start";
-
                 Running = false;
                 TimeElapsed.Stop();
                 ScreenPrintInterval.Stop();
