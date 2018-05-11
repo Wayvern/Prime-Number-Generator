@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Prime Number Generator.exe" version="1.0.0.1" publicKeyToken="923032bdfe106761" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Prime Number Generator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Prime Number Generator.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Prime Number Generator.exe" size="22496">
+      <assemblyIdentity name="Prime Number Generator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>eiR1SbtfJ2AQVVDyH4S1iGJbUgiy8g31ZWbpPWGcmZM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Prime Number Generator.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-UIJQK9P\wayve" issuerKeyHash="3959ab312b23bf68b2534a729b19a0990bf2a42c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>2Ia+LlDpq0aTaB9zqN/6+UNBFoM2rXhWvSoV+iMj2i4=</DigestValue></Reference></SignedInfo><SignatureValue>qARK9I+EPkqLnc9bJvWYgl8yZNM6PTIe71qf0vbBwdGeHV4dorEpCvCxLDanUKpppamzRSsbn2nJftb7lJpNicTMCyqyhIny9lKmlR85Q9JuXXALnTg77Q/34LDSYqzEWujIJsWe8Lu5/ZvgO0i8bVHqMtaE9bOxnY6hNvHAaJs=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>5mkHKRgfHygmmZEHy4VzR9GbirrWkpp9J3OBFUg0HSTsrDRxEYwQOB8b5LJOFgmLwzlvcN3iKiN+NFTCRJ5DoYJ6o+DRUxBrztTrJg68lQrI7P+yvfje9XHgZ5gDS3I80ipONNIJc8s0Wu3aGfHBHqELVsCf05MO1foOpOw7uKU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="2eda2323fa152abd5678ad3683164143f9fadfa8731f689346abe9502ebe86d8" Description="" Url=""><as:assemblyIdentity name="Prime Number Generator.exe" version="1.0.0.1" publicKeyToken="923032bdfe106761" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-UIJQK9P\wayve</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>nCkQ+S6KQwPpYhtq2jEy5LnM5Nwt6e4Sv/J7XvOUbNs=</DigestValue></Reference></SignedInfo><SignatureValue>2d1XFmxF0jsRAWSJWQNdWzmEpvLhcJQWc6MqQyCC0ynquhp7CZEvgKXpvDDF1yCc+PgmvSMquIIKsdkmTANXsRLNQNh7g3a7w8Cl4oz5KsEbqp6G9LH5MrG/x8Fjs/52m/3DTvDnPKvpIVdLzFQU7k/UltkkQs5JSEGAO4C+2zg=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>5mkHKRgfHygmmZEHy4VzR9GbirrWkpp9J3OBFUg0HSTsrDRxEYwQOB8b5LJOFgmLwzlvcN3iKiN+NFTCRJ5DoYJ6o+DRUxBrztTrJg68lQrI7P+yvfje9XHgZ5gDS3I80ipONNIJc8s0Wu3aGfHBHqELVsCf05MO1foOpOw7uKU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQafEbTaK+5ZtPzY3DfQuVdjANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFUASQBKAFEASwA5AFAAXAB3AGEAeQB2AGUwHhcNMTcwNDI3MjAwMTQ3WhcNMTgwNDI4MDIwMTQ3WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFUASQBKAFEASwA5AFAAXAB3AGEAeQB2AGUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOZpBykYHx8oJpmRB8uFc0fRm4q61pKafSdzgRVINB0k7Kw0cRGMEDgfG+SyThYJi8M5b3Dd4iojfjRUwkSeQ6GCeqPg0VMQa87U6yYOvJUKyOz/sr343vVx4GeYA0tyPNIqTjTSCXPLNFrt2hnxwR6hC1bAn9OTDtX6DqTsO7ilAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAHw8J/SmeIuZlELe7Uo4m2ZwlA351HtaK9uxgeBgTgm3/s8OW2J3PvcljUe3//2PA5pICz1buUiirVC5jCWMIy4iCTByDXh1HADQb/TALVOVSLj+iTocePeaX2cUABCJiNwQhayt2cj68TF8RtjVNZQNN2Pb8PT7e2sjJXid7TQ0=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

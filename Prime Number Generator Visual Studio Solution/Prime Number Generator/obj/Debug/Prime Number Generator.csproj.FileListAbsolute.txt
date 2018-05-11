@@ -1,0 +1,51 @@
+c:\users\wayve\documents\visual studio 2017\Projects\Prime Number Generator\Prime Number Generator\obj\Debug\MainWindow.g.cs
+c:\users\wayve\documents\visual studio 2017\Projects\Prime Number Generator\Prime Number Generator\obj\Debug\App.g.cs
+c:\users\wayve\documents\visual studio 2017\Projects\Prime Number Generator\Prime Number Generator\obj\Debug\Prime Number Generator_MarkupCompile.cache
+c:\users\wayve\documents\visual studio 2017\Projects\Prime Number Generator\Prime Number Generator\bin\Debug\Prime Number Generator.exe.config
+c:\users\wayve\documents\visual studio 2017\Projects\Prime Number Generator\Prime Number Generator\bin\Debug\Prime Number Generator.exe
+c:\users\wayve\documents\visual studio 2017\Projects\Prime Number Generator\Prime Number Generator\bin\Debug\Prime Number Generator.pdb
+c:\users\wayve\documents\visual studio 2017\Projects\Prime Number Generator\Prime Number Generator\obj\Debug\MainWindow.baml
+c:\users\wayve\documents\visual studio 2017\Projects\Prime Number Generator\Prime Number Generator\obj\Debug\Prime Number Generator.g.resources
+c:\users\wayve\documents\visual studio 2017\Projects\Prime Number Generator\Prime Number Generator\obj\Debug\Prime_Number_Generator.Properties.Resources.resources
+c:\users\wayve\documents\visual studio 2017\Projects\Prime Number Generator\Prime Number Generator\obj\Debug\Prime Number Generator.csproj.GenerateResource.Cache
+c:\users\wayve\documents\visual studio 2017\Projects\Prime Number Generator\Prime Number Generator\obj\Debug\Prime Number Generator.exe
+c:\users\wayve\documents\visual studio 2017\Projects\Prime Number Generator\Prime Number Generator\obj\Debug\Prime Number Generator.pdb
+C:\Users\wayve\documents\visual studio 2017\Projects\Prime Number Generator\Prime Number Generator\bin\Debug\Prime Number Generator.exe.manifest
+C:\Users\wayve\documents\visual studio 2017\Projects\Prime Number Generator\Prime Number Generator\bin\Debug\Prime Number Generator.application
+C:\Users\wayve\documents\visual studio 2017\Projects\Prime Number Generator\Prime Number Generator\obj\Debug\Prime Number Generator.exe.manifest
+C:\Users\wayve\documents\visual studio 2017\Projects\Prime Number Generator\Prime Number Generator\obj\Debug\Prime Number Generator.application
+C:\Users\wayve\documents\visual studio 2017\Projects\Prime Number Generator\Prime Number Generator\obj\Debug\Prime Number Generator.csprojResolveAssemblyReference.cache
+C:\Users\wayve\Desktop\Backups\Prime Number Generator\Prime Number Generator\bin\Debug\Prime Number Generator.exe.config
+C:\Users\wayve\Desktop\Backups\Prime Number Generator\Prime Number Generator\bin\Debug\Prime Number Generator.exe.manifest
+C:\Users\wayve\Desktop\Backups\Prime Number Generator\Prime Number Generator\bin\Debug\Prime Number Generator.application
+C:\Users\wayve\Desktop\Backups\Prime Number Generator\Prime Number Generator\bin\Debug\Prime Number Generator.exe
+C:\Users\wayve\Desktop\Backups\Prime Number Generator\Prime Number Generator\bin\Debug\Prime Number Generator.pdb
+C:\Users\wayve\Desktop\Backups\Prime Number Generator\Prime Number Generator\obj\Debug\Prime Number Generator.csprojResolveAssemblyReference.cache
+C:\Users\wayve\Desktop\Backups\Prime Number Generator\Prime Number Generator\obj\Debug\MainWindow.baml
+C:\Users\wayve\Desktop\Backups\Prime Number Generator\Prime Number Generator\obj\Debug\MainWindow.g.cs
+C:\Users\wayve\Desktop\Backups\Prime Number Generator\Prime Number Generator\obj\Debug\App.g.cs
+C:\Users\wayve\Desktop\Backups\Prime Number Generator\Prime Number Generator\obj\Debug\Prime Number Generator_MarkupCompile.cache
+C:\Users\wayve\Desktop\Backups\Prime Number Generator\Prime Number Generator\obj\Debug\Prime Number Generator.g.resources
+C:\Users\wayve\Desktop\Backups\Prime Number Generator\Prime Number Generator\obj\Debug\Prime_Number_Generator.Properties.Resources.resources
+C:\Users\wayve\Desktop\Backups\Prime Number Generator\Prime Number Generator\obj\Debug\Prime Number Generator.csproj.GenerateResource.Cache
+C:\Users\wayve\Desktop\Backups\Prime Number Generator\Prime Number Generator\obj\Debug\Prime Number Generator.exe.manifest
+C:\Users\wayve\Desktop\Backups\Prime Number Generator\Prime Number Generator\obj\Debug\Prime Number Generator.application
+C:\Users\wayve\Desktop\Backups\Prime Number Generator\Prime Number Generator\obj\Debug\Prime Number Generator.exe
+C:\Users\wayve\Desktop\Backups\Prime Number Generator\Prime Number Generator\obj\Debug\Prime Number Generator.pdb
+C:\Users\wayve\Desktop\Prime Number Generator Visual Studio Solution\Prime Number Generator\obj\Debug\MainWindow.baml
+C:\Users\wayve\Desktop\Prime Number Generator Visual Studio Solution\Prime Number Generator\obj\Debug\MainWindow.g.cs
+C:\Users\wayve\Desktop\Prime Number Generator Visual Studio Solution\Prime Number Generator\obj\Debug\App.g.cs
+C:\Users\wayve\Desktop\Prime Number Generator Visual Studio Solution\Prime Number Generator\obj\Debug\Prime Number Generator_MarkupCompile.cache
+C:\Users\wayve\Desktop\Prime Number Generator Visual Studio Solution\Prime Number Generator\obj\Debug\Prime Number Generator.g.resources
+C:\Users\wayve\Desktop\Prime Number Generator Visual Studio Solution\Prime Number Generator\obj\Debug\Prime_Number_Generator.Properties.Resources.resources
+C:\Users\wayve\Desktop\Prime Number Generator Visual Studio Solution\Prime Number Generator\obj\Debug\Prime Number Generator.csproj.GenerateResource.cache
+C:\Users\wayve\Desktop\Prime Number Generator Visual Studio Solution\Prime Number Generator\obj\Debug\Prime Number Generator.csproj.CoreCompileInputs.cache
+C:\Users\wayve\Desktop\Prime Number Generator Visual Studio Solution\Prime Number Generator\obj\Debug\Prime Number Generator.exe
+C:\Users\wayve\Desktop\Prime Number Generator Visual Studio Solution\Prime Number Generator\obj\Debug\Prime Number Generator.pdb
+C:\Users\wayve\Desktop\Prime Number Generator Visual Studio Solution\Prime Number Generator\bin\Debug\Prime Number Generator.exe.config
+C:\Users\wayve\Desktop\Prime Number Generator Visual Studio Solution\Prime Number Generator\bin\Debug\Prime Number Generator.exe.manifest
+C:\Users\wayve\Desktop\Prime Number Generator Visual Studio Solution\Prime Number Generator\bin\Debug\Prime Number Generator.application
+C:\Users\wayve\Desktop\Prime Number Generator Visual Studio Solution\Prime Number Generator\bin\Debug\Prime Number Generator.exe
+C:\Users\wayve\Desktop\Prime Number Generator Visual Studio Solution\Prime Number Generator\bin\Debug\Prime Number Generator.pdb
+C:\Users\wayve\Desktop\Prime Number Generator Visual Studio Solution\Prime Number Generator\obj\Debug\Prime Number Generator.exe.manifest
+C:\Users\wayve\Desktop\Prime Number Generator Visual Studio Solution\Prime Number Generator\obj\Debug\Prime Number Generator.application
