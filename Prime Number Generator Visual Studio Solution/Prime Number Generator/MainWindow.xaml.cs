@@ -112,7 +112,6 @@ namespace Prime_Number_Generator
             });
             PrimeNumberIndexTextbox.ScrollToEnd();
         }
-        
         private void UpdateFoundPrimeNumberList(Object Obj, EventArgs e)
         {
             this.Dispatcher.Invoke(() =>
@@ -167,7 +166,7 @@ namespace Prime_Number_Generator
             ProgressPercentage = 0.0f;
             SetUIActive(false);            
             maxPrimeNumberIndex = CurrentPrimeNumberIndex;
-            
+
             if (WorkerBasedMultithreading)
             {
                 GeneratePrimeNumbersWithWorkers((int)AmountToGenerateSlider.Value);
@@ -176,7 +175,7 @@ namespace Prime_Number_Generator
             {
                 StartTasks((long)AmountToGenerateSlider.Value);
             }
-            
+
             StartButton.Content = "Stop";
             ScreenPrintInterval.Start();
         }
@@ -288,6 +287,7 @@ namespace Prime_Number_Generator
                 NumberofThreads = 7;
                 NumberofThreadsTextBox.Text = "7";
             }
+
             NumberofThreadsSlider.Value = NumberofThreads;
             UpdateThreadCount();
         }

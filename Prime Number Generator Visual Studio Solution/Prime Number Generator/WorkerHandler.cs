@@ -18,7 +18,7 @@ namespace Prime_Number_Generator
 
         public WorkerHandler()
         {
-            worker.DoWork += DoWork;
+            worker.DoWork += GeneratePrimeNumbers;
         }
 
         public void StartWorker()
@@ -30,7 +30,7 @@ namespace Prime_Number_Generator
 
         #region WorkerLogic
 
-        private void DoWork(object sender, DoWorkEventArgs e)
+        private void GeneratePrimeNumbers(object sender, DoWorkEventArgs e)
         {
             bool isPrime = true;
             while (CurrentPrimeNumberIndex < maxPrimeNumberIndex) 
